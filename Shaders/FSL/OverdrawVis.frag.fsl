@@ -1,4 +1,14 @@
 /*
+ * Modifications Copyright (c) 2025 Nathan Keith
+ *
+ * This file is a modified version of a source file from The Forge Framework,
+ * used under the terms of the Apache License 2.0.
+ * Modifications include overdraw visualization and depth pre-pass integration.
+ * 
+ * See original project: https://github.com/ConfettiFX/The-Forge
+ */
+
+/*
  * Copyright (c) 2017-2025 The Forge Interactive Inc.
  * 
  * This file is part of The-Forge
